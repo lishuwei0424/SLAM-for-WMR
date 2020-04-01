@@ -9,21 +9,21 @@ Be interested in visual SLAM and multisensor fusion for WMR(wheel mobile robot),
 7.[Edge SLAM] 2020-03-24-[Robust Monocular Edge Visual Odometry through Coarse-to-Fine Data Association](https://www.researchgate.net/publication/336056167_Robust_Monocular_Edge_Visual_Odometry_through_Coarse-to-Fine_Data_Association)
 --------------------------------------------------------------------------------------------------------------------------------------
 ###  IROS-2019
-1.Visual-Inertial Odometry with Point and Line Features  
-2.Zhang M, Chen Y, Li M. [Vision-Aided Localization for Ground Robots](https://hitcm.github.io/data/papers/IROS2019_ground.pdf)
-3.[C]//IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). 2019.  
-4.Robust and Efficient Vehicles Motion Estimation with Low-Cost Multi-Camera and Odometer-Gyroscope.  
-5.Visual-Inertial Odometry Tightly Coupled with Wheel Encoder Adopting Robust Initialization and Online Extrinsic Calibration.
-6.Perception System Design for Low-Cost Commercial Ground Robots: Sensor Configurations, Calibration, Localization, and Mapping.
-7.Line-Based Absolute and Relative Camera Pose Estimation in Structured Environments.
+1. Visual-Inertial Odometry with Point and Line Features  
+2. Zhang M, Chen Y, Li M. [Vision-Aided Localization for Ground Robots](https://hitcm.github.io/data/papers/IROS2019_ground.pdf)
+3. [C]//IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). 2019.  
+4. Robust and Efficient Vehicles Motion Estimation with Low-Cost Multi-Camera and Odometer-Gyroscope.  
+5. Visual-Inertial Odometry Tightly Coupled with Wheel Encoder Adopting Robust Initialization and Online Extrinsic Calibration.
+6. Perception System Design for Low-Cost Commercial Ground Robots: Sensor Configurations, Calibration, Localization, and Mapping.
+7. Line-Based Absolute and Relative Camera Pose Estimation in Structured Environments.
 
 --------------------------------------------------------------------------------------------------------------------------------------
 ###  ICRA 2019
-1.Aided Inertial Navigation - Unified Feature Representations and Observability Analysis
-2.Learning Wheel Odometry and IMU Errors for Localization
-3.RESLAM - A Real-Time Robust Edge-Based SLAM System
-4.Visual-Odometric Localization and Mapping for Ground Vehicles Using SE(2)-XYZ Constraints
-5.ROVO - Robust Omnidirectional Visual Odometry for Wide-Baseline Wide-FOV Camera Systems
+1. Aided Inertial Navigation - Unified Feature Representations and Observability Analysis  
+2. Learning Wheel Odometry and IMU Errors for Localization   
+3. RESLAM - A Real-Time Robust Edge-Based SLAM System  
+4. Visual-Odometric Localization and Mapping for Ground Vehicles Using SE(2)-XYZ Constraints  
+5. ROVO - Robust Omnidirectional Visual Odometry for Wide-Baseline Wide-FOV Camera Systems  
 
 --------------------------------------------------------------------------------------------------------------------------------------
 ###  SLAM-2019
