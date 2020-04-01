@@ -12,7 +12,8 @@
 * CVPR2017  https://www.jianshu.com/p/22151f39b50c    
 * CVPR2018  https://www.jianshu.com/p/22151f39b50c  
 *  CVPR2019  https://www.sohu.com/a/320371808_715754   
-Be interested in visual SLAM and multisensor fusion for WMR(wheel mobile robot),  Arranging articles for my interest from  https://github.com/YiChenCityU/Recent_SLAM_Research，thank you, as  follows;
+--------------------------------------------------------------------------------------------------------------------------------------
+## Be interested in visual SLAM and multisensor fusion for WMR(wheel mobile robot),  Arranging articles for my interest from  https://github.com/YiChenCityU/Recent_SLAM_Research，thank you, as  follows;
 ### SLAM-2020
 1. [Calibration] 2020-01-13-[A Generalized Framework for Autonomous Calibration of Wheeled Mobile Robots](https://arxiv.org/pdf/2001.01555.pdf)
 2. [VSLAM] 2020-02-10-[Bidirectional Trajectory Computation for Odometer-Aided Visual-Inertial SLAM](https://arxiv.org/pdf/2002.00195.pdf)
