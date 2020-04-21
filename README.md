@@ -78,3 +78,4 @@
 1. ASDL     http://asrl.utias.utoronto.ca/datasets/mrclam/index.html
 2. RAWSEEDS http://www.rawseeds.org/rs/datasets/view//6
 3. nclt http://robots.engin.umich.edu/nclt/
+4.life-long competion
